@@ -64,10 +64,11 @@
     text-align: left;
     justify-content: center;
     vertical-align: middle;
+    min-width: 35%;
 
     p {
       margin-bottom: 3px;
-      font-size: 1.6rem;
+      font-size: 1.45rem;
       text-align: inherit;
       font-weight: 300;
 
@@ -86,7 +87,7 @@
 
     a {
       color: inherit;
-      font-style: italic;
+      font-style: normal;
       font-weight: 300;
     }
 
@@ -95,12 +96,12 @@
     }
 
     .link {
-      font-size: 1.5rem;
+      font-size: 1.45rem;
     }
 
     h4 {
       margin-bottom: 0.1rem;
-      font-weight: 500;
+      font-weight: 600;
 
       @media print {
         margin-bottom: 0.2rem;
