@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Özhan Özen
-title: Data Scientist & Robotics Engineer
+title: Robotics & AI Engineer
 website: ozhanozen.github.io
 email: oezhan.oezen@gmail.com
 wemail: oezhan.oezen@sipbb.ch
@@ -56,11 +56,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I'm an engineer at the intersection of AI, robotics, and healthcare. During my PhD studies, I worked on the utilization of reinforcement learning in robot-assisted motor 
-  skill training and neurorehabilitation. Currently, I am working at the Swiss Battery Technology Center (within the Switzerland Innovation Park Biel/Bienne), 
-  developing a robotic system to automatically disassemble EV batteries. 
-
-  I am most interested in: <mark>robotics</mark>, <mark>deep reinforcement learning</mark>, and <mark>human motor learning</mark>.
+  As a robotics engineer focused on AI, particularly reinforcement learning and sim2real approaches, 
+  I aim to make robots more intelligent and capable of learning complex manipulation skills with human-like adaptability. 
+  With a background spanning robotics and human motor learning, I integrate insights from computer science, control theory, 
+  and neuroscience to advance robotic intelligence. Currently, I develop innovative robotic systems that use reinforcement learning to 
+  acquire skills for the automatic disassembly of electric vehicle batteries, supporting the circular economy and a greener future.
 
 content:
 
@@ -77,8 +77,11 @@ content:
         #  Using AI and robotics to develop future technology for a more efficient and sustainable future.
         
         description: | # this will include new lines to allow paragraphs
-            Using AI and robotics to develop future technology for a more efficient and sustainable future. 
-            Currently, developing a robotic system that uses deep reinforcement learning to learn how to automatically disassemble EV batteries.
+            As the Swiss Battery Technology Center (SBTC) subgroup, we are driving a cutting-edge initiative to develop robotic systems for the disassembly of electric vehicle (EV) batteries, aimed at recycling and upcycling. 
+
+            In my role as the scientific project leader, I focus on leveraging deep reinforcement learning to enable robots to acquire essential disassembly skills in simulation, 
+            which are then transferred to real-world robots using advanced sim2real techniques. By integrating AI, robotics, and automation, we aim to create scalable and efficient solutions 
+            that enhance sustainability in EV recycling and contribute to a more circular economy.
 
       - layout: left
         title: Robotics Engineer
