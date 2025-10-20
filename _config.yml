@@ -68,7 +68,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Data Scientist & Scientific Project Leader
+        title: Senior AI Scientist & Project Leader
         link: sipbb.ch
         # link_text: boringcompany.com
         sub_title: Switzerland Innovation Park Biel/Bienne Ltd.
